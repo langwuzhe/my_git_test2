@@ -1,1 +1,2 @@
-this is my 2th github
+Git is a version control system.
+Git is free software.
