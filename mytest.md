@@ -7,3 +7,4 @@ test sourceTree2
 this is masterTest
 fix bug1
 test stash
+I am master
