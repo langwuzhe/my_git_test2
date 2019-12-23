@@ -6,3 +6,4 @@ Git tracks changes of files.
 test sourceTree2
 this is masterTest
 fix bug1
+test stash
